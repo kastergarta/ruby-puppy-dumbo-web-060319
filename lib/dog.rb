@@ -1,5 +1,5 @@
 class Dog 
-  # @@all = []
+  @@all = []
   # def initialize(name)
   #   @@all = []
   # end  
@@ -11,9 +11,9 @@ class Dog
   # def all
   # end  
   
-  def name(name)
-    @name = name
-  end
+  # def name(name)
+  #   @name = name
+  # end
   
   
 end  
