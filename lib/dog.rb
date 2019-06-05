@@ -11,8 +11,8 @@ class Dog
   # def all
   # end  
   
-  def release_date=(date)
-    @release_date = date
+  def name(name)
+    @name = name
   end
   
   
