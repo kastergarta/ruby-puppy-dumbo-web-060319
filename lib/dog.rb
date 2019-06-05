@@ -1,16 +1,16 @@
 class Dog 
-  
-  attr_accessor :name
-  def clear_all(array)
-    array.clear
-  end  
-  
-  # def all
+@@all = []  
+  # attr_accessor :name
+  # def clear_all(array)
+  #   array.clear
   # end  
   
-  def name(name)
-    @name = name
-  end
+  # # def all
+  # # end  
+  
+  # def name(name)
+  #   @name = name
+  # end
   
   
 end  
