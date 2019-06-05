@@ -1,12 +1,7 @@
 class Dog 
-
-  def initialize
-    @@all = []
+  def clear_all(array)
+    array.clear
   end  
-   
-  # def clear_all(array)
-  #   array.clear
-  # end  
   
   # def all
   # end  
