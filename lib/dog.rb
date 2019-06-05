@@ -10,4 +10,8 @@ class Dog
   
   # def all
   # end  
+  
+  # def release_date=(date)
+  #   @release_date = date
+  # end
 end  
