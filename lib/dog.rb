@@ -4,8 +4,8 @@ class Dog
     @@all = []
   end  
    
-  # def clear_all
-  #   array = []
+  # def clear_all(array)
+  #   array.clear
   # end  
   
   # def all
