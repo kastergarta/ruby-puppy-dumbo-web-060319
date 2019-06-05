@@ -7,7 +7,11 @@ def initialize(name)
 end  
   
 def self.clear_all
-  self.cler
+  self.clear_all
+end  
+
+def self.all
+  self.each {|dog| puts}
 end  
   
 end  
